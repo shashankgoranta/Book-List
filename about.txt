@@ -1,0 +1,4 @@
+book list app using oop of javascript
+
+technologies/ frameworks used:
+  ES5 prototypes and ES6 classes, skeleton, javascript
